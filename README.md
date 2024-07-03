@@ -1,7 +1,7 @@
-<h1>Hi, I'm Crawford! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a 
+<h1>Hi, I'm Crawford! <br/></h1>
 
+<h2>👨‍💻 Active Directory Homelab Projects:</h2>
 
-<h2>👨‍💻 IT Homelab Projects:</h2>
 
 - <b>Active Directory Homelab (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
